@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a developer living and working in [Providence, Rhode Island, USA](https://en.wikipedia.org/wiki/Providence,_Rhode_Island). I have master's degrees in mathematics ([Rhode Island College](https://www.ric.edu/)), machine learning ([Georgia Insitute of Technology](https://www.gatech.edu/)), and data science ([The University of Texas at Austin](https://admissions.utexas.edu/)). 
+I am a developer living and working in [Providence, Rhode Island, USA](https://en.wikipedia.org/wiki/Providence,_Rhode_Island). I have master's degrees in mathematics ([Rhode Island College](https://www.ric.edu/)), machine learning ([Georgia Insitute of Technology](https://www.gatech.edu/)), and data science ([The University of Texas at Austin](https://admissions.utexas.edu/)). As of January 2024, I will be a full-time graduate student in the Physics Department at [The University of Rhode Island](https://web.uri.edu/physics/quantum/) pursuing my M.S. in Quantum Computing. I expect to complete my degree in the next 12 - 18 months, after which time I hope to return to work in industry. 
 
 I have worked as an instructional associate at the Georgia Institute of Technology, a data specialist at [Providence Public Schools](https://www.providenceschools.org/), and a data engineer at [CVS Health](https://www.cvshealth.com/). 
 
