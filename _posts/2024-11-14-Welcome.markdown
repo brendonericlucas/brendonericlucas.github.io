@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to My GitHub Pages"
+date:   2024-11-14 19:20:54 -0500
+categories: site update
+---
+Welcome to my GitHub pages, created with help from [Jekyll][https://jekyllrb.com/] using Jekyll's minima theme. 
+
+
