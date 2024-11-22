@@ -1,4 +1,4 @@
-Data infrastructure modernization (DIM) can be (at times, I think, intentionally) a _vauge_ term. 
+Data infrastructure modernization (DIM) can be (at times, I think, intentionally) a _vauge_ phrase. 
 
 Often, it tends to be a phrase which is bandied about after someone in a leadership position has finally become dissatisfied with paying folks for promised data driven insights that arrive stale - if they ever arrive at all - and who, when they start digging into what the likely cause of their poorly performing data teams is, find data professionals who seem to be 1) competent 2) committed and 3) exhausted, demoralized and overburdened by their work; note that I do _not_ necessarily suggest that leadership always recognizes all (or any) of 1 - 3, only that if they look closely, this is what they'll tend to find (but more on this below). 
 
