@@ -41,7 +41,15 @@ Having many mediocre middle managers - i.e., managers who are not technically go
 An important rider here is that no one wants to work for a _weak leader_ either, regardless of how technically good they might be. If they don't have the spine to push back against unreasonable asks or hairbrained ideas, don't adopt a protective stance towards their team, don't value or respect their team except as a means of their own enrichment or survivial - then here, too, your modernization effort will likely fail. 
 
 ## You have poor (or no) engineering culture
+I've worked on teams where there was quite literally no code review (on at least one occasion, because there just *wasn't* anyone who could do the reviewing). I've also worked on teams where there was no real documentation, and where documenting one's work just never really 'caught on' as a best practice. These teams both had poor - or completely absent - engineering culture. 
 
+There's a real and genuine difference between mature, professional engineering teams and teams comprised of what are effectively accomplished amateurs. 
+
+Professional engineering teams are aware of and try to follow industry best practices (often tinkering with them around the margins to adapt them to their particular situations). They find ways to foster meaningful collaboration. They bake *meaningful* and right-sized safeguards and quality checks into their development workflows and they resist process for process's sake. They embrace and celebrate clear and detailed documentation and aren't afraid to show their work. They also understand the place of agile and traditional development methods in delivering value for an organization. 
+
+Perhaps most importantly, they don't tolerate or support an environment in which *every single soultion* is a uniquely creative solution. Because it's highly unlikely, especially in the sort of org which needs to undertake a DIM effort, that the problems you're trying to solve are really so *sui generis* that the only way to approach them is to reinvent the wheel. Other folks have tackled these challenges before. They've recorded what worked and what didn't work. If a team dives into a DIM problem without first taking the time to familiarize itself with the current collective wisdom reagarding how to solve a problem of the sort they're faced with, then they're not approaching the problem as engineering professionals. 
+
+Poor or non-existint engineering culture is yet another threat to a sucessful data infrastructure modernization problem. 
 
 ## You have poor team culture / are failing at recruitment, mentoring, and psychological safety
 
