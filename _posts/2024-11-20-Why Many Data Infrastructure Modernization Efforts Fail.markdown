@@ -85,7 +85,7 @@ Letting cultural rot of this sort take hold within a team is tantamount to diggi
 ---
 
 ## You are too focused on "just getting the work done"
-This brings us to the last of the major causes of the failure of data infrastructure modernization efforts: an excessive devotion to 'pragmaticism' and manual effort. 
+This brings us to the last of the major causes of the failure of data infrastructure modernization efforts: an excessive devotion to 'pragmatism' and manual effort. 
 
 No one gets into technology to perform boring and repetitive tasks which can be automated. But building proper automation takes time. It's another sort of investment. Teams who don't want to make that investment (often because they feel that automation and efficiency are _dangerous_ to their continued existence) birth data roles that can - at their very worst - feel like glorifed clerical postions (Not that there's anything wrong with working in a clerical position! There isn't! It's just not what technologically inclined folks like to do.) 
 
