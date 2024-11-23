@@ -6,7 +6,7 @@ Almost as often, it can be less indicative of particular concerns about an organ
 
 And speaking of the cloud, this is another thing that data infrastructure modernization can often encompass. Namely, efforts to shift some large part - or all - of an organization's data platform to cloud based resources and services. 
 
-From my experiences in industry (and the experiences of many others...stories of failed data warehousing projects, which are often a core component of DIM projects, are legion), DIM projects are often doomed to failure pretty much as soon, or even before, they start. If data _really is_ the new oil, then these projects are a bit akin to flooding the ocean with crude instead of piping it, processing it, and exporting it. That is to say, very messy and very, _very_ wasteful. 
+From my experiences in industry (and the experiences of many others...stories of failed data warehousing projects, which are often a core component of DIM projects, are legion), DIM projects are often doomed to failure pretty much as soon as, or even before, they start. If data _really is_ the new oil, then these projects are a bit akin to flooding the ocean with crude instead of piping it, processing it, and exporting it. That is to say, very messy and very, _very_ wasteful. 
 
 Given the constant deluge of data which organizations today are tasked with managing, it behooves us to ask _why_ so many DIM projects will fail. Here are some of the recurring culprits I've seen in industry while working at organizations public and private, small and large. 
 
