@@ -26,3 +26,4 @@ the ongoing ramp up of Nvidia's presence in the Quantum Computing space.
 
 In short, if you're long on Quantum Computing stocks, you're probably in reasonably good shape. But if you're expecting an imminent windfall, you might want to think again...
 
+![Unhappy Atom](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
