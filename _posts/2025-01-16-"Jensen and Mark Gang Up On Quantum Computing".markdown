@@ -1,5 +1,3 @@
-#Jensen and Mark Gang Up on Quantum Computing
-
 Recently, Jensen Huang of Nvidia and Mark Zuckerberg of Meta [managed to crater pretty much every quantum computing stock](https://www.fool.com/investing/2025/01/15/nvidia-jensen-huang-meta-mark-zuckerberg-stock-buy/) 
 by means of a few off-the-cuff remarks each made pegging the advent of viable quantum computers at around 20 - 30 years from now. 
 
@@ -26,4 +24,4 @@ the ongoing ramp up of Nvidia's presence in the Quantum Computing space.
 
 In short, if you're long on Quantum Computing stocks, you're probably in reasonably good shape. But if you're expecting an imminent windfall, you might want to think again...
 
-![Unhappy Atom](/docs/assets/images/unhappy_atom.jpg)
+![Unhappy Atom](/docs/assets/images/unhappy_atom.png)
