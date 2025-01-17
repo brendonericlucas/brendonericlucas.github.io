@@ -6,7 +6,7 @@ permalink: /about/
 
 
 <div>
-  <img src="/docs/assets/images/black_and_white.png" style="border-radius: 20px; float: left"/>
+  <img src="/docs/assets/images/black_and_white.png" style="border-radius: 20px; float: left; padding: 5px;"/>
 </div>
 
 
