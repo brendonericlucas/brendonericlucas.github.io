@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align: center">
+
 <div>
-  <img src="/docs/assets/images/black_and_white.png" style="border-radius: 20px"/>
-</div>
+  <img src="/docs/assets/images/black_and_white.png" style="border-radius: 20px; float: left"/>
 </div>
 
 
