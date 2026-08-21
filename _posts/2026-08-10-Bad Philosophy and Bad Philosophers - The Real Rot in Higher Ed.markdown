@@ -112,7 +112,7 @@ I would submit to the author of the NYT article that - especially in the US - di
 
 In short, people no longer know what academia is *for*, and that as often as not includes academics themselves.
 
-#UPDATE
+## UPDATE
 
 Arday, sadly, [has died](https://www.bbc.com/news/articles/c1j1ye6n30no), and the "academic" who accused him of plagiarism [has been suspended](https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university) from his position at a Belgian university. The latter is, predictably, framing his suspension as a violation of his academic freedom and an attempt to regulate his speech rather than as just desserts for him being a racist, elitest asshole who just got someone killed.
 
